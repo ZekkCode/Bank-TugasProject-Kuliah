@@ -1,0 +1,61 @@
+{
+    "generatedAt": "2026-01-04T03:09:11.000Z",
+    "items": [
+        {
+            "id": "sem1",
+            "name": "Semester 1",
+            "type": "folder",
+            "gdriveUrl": "",
+            "children": []
+        },
+        {
+            "id": "sem2",
+            "name": "Semester 2",
+            "type": "folder",
+            "gdriveUrl": "",
+            "children": []
+        },
+        {
+            "id": "sem3",
+            "name": "Semester 3",
+            "type": "folder",
+            "gdriveUrl": "https://drive.google.com/drive/folders/1sruS3MfjAp3RuS-fsTmMtA3NBxpF1X42?usp=sharing",
+            "children": []
+        },
+        {
+            "id": "sem4",
+            "name": "Semester 4",
+            "type": "folder",
+            "gdriveUrl": "",
+            "children": []
+        },
+        {
+            "id": "sem5",
+            "name": "Semester 5",
+            "type": "folder",
+            "gdriveUrl": "",
+            "children": []
+        },
+        {
+            "id": "sem6",
+            "name": "Semester 6",
+            "type": "folder",
+            "gdriveUrl": "",
+            "children": []
+        },
+        {
+            "id": "sem7",
+            "name": "Semester 7",
+            "type": "folder",
+            "gdriveUrl": "",
+            "children": []
+        },
+        {
+            "id": "sem8",
+            "name": "Semester 8",
+            "type": "folder",
+            "gdriveUrl": "",
+            "children": []
+        }
+    ]
+}
